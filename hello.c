@@ -2,5 +2,5 @@
 
 int main() {
     printf("Hello, World!\n");
-    // 수정수정수정
+    // feature-2 에서 수정 수정
 }
